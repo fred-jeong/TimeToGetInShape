@@ -10,4 +10,4 @@ npm install
 ````
 npm start
 ````
-3. To view your app, navigate your browser to http://localhost:8080
+3. To view your app, navigate your browser to `http://localhost:8080`
