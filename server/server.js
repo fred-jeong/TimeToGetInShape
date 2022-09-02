@@ -5,7 +5,7 @@ const app = express();
 const cookieParser = require('cookie-parser');
 
 // declare a PORT number for HTTP serve to listen on
-const PORT = 3434;
+const PORT = 8080;
 
 app.use(express.json());
 app.use(cookieParser());
